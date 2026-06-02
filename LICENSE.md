@@ -1,4 +1,4 @@
-# 
+# 最佳 bitmex trading bot 工作流 Mac OS版 | 更新 bitmex trading bot 工作流 PC Windows版。集成 Gas费优化 和 突破检测，跨平台性能最大化。
 
 
 
